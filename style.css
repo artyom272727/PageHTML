@@ -1,0 +1,15 @@
+div{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	color: white;
+}
+.c, .g{
+	background: black;
+	color: white;
+	padding-right: 30px;
+	list-style-type: square;
+}
+body{
+	background-color: #2F4F4F;
+}
